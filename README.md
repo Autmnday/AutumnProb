@@ -62,3 +62,5 @@ Aim assist,
 Smooth Aimbot,
 
 More!
+
+loadstring(game:HttpGet('link here')()
